@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris, an IT Professional</h1>
+<h1>Hello! Please excuse my mess :) </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
